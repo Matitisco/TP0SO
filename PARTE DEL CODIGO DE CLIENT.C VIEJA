@@ -1,0 +1,90 @@
+/*
+
+	printf("Para frenarlo ingrese una linea vacia: ");
+
+	while (0!=strcmp(a,"")){
+		//printf("1");
+		a = readline("> ");
+		log_info(logger, a);
+	}
+
+
+	log_destroy(logger);
+	config_destroy(config);
+
+*//*
+	char* valorConfig;
+	if( ( config = config_create("/home/utnso/Documents/tp0/tp0.config")) == NULL){
+		printf("No encontro tp0.config ");
+	}
+
+	valorConfig = config_get_string_value(config,"VALOR");
+	//PASO 3:
+
+	int socket_cliente = crear_conexion("127.0.0.1","4444");
+	//PASO 4:
+	enviar_mensaje(valorConfig, socket_cliente);
+
+
+	uint32_t handshake = 1;
+	uint32_t result;
+*/
+	//send(socket_cliente, &handshake, sizeof(uint32_t), NULL);
+	//recv(socket_cliente, &result, sizeof(uint32_t), MSG_WAITALL);
+
+	//aca va alguna lógica para manejar el OK o el ERROR del servidor
+
+
+
+	//PASO 5:
+	//char *mensaje = recibir_mensaje(socket_cliente);
+
+	//logger = log_create("/home/utnso/Documents/tp0/tp0.log","prueba",true, LOG_LEVEL_INFO);
+
+	//log_info(logger, "asd");
+
+
+	//PASO 4:
+
+	/*config = config_create("/home/utnso/Documents/tp0/tp0.config");
+
+	char* mensaje;
+	char* valorClave;
+	valorClave = config_get_string_value(config,"VALOR"); // Va a leer la variable VALOR y retorna lo que tenia almacenado
+
+	printf(valorClave);
+	enviar_mensaje("asd", socket_cliente);*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* ---------------- LEER DE CONSOLA ---------------- */
+
+	//leer_consola(logger);
+
+	/*---------------------------------------------------PARTE 3-------------------------------------------------------------*/
+
+	// ADVERTENCIA: Antes de continuar, tenemos que asegurarnos que el servidor esté corriendo para poder conectarnos a él
+
+	// Creamos una conexión hacia el servidor
+	/*conexion = crear_conexion(ip, puerto);
+
+	// Enviamos al servidor el valor de CLAVE como mensaje
+
+	// Armamos y enviamos el paquete
+	/*paquete(conexion);
+
+	terminar_programa(conexion, logger, config); */
+
+	/*---------------------------------------------------PARTE 5-------------------------------------------------------------*/
+	// Proximamente

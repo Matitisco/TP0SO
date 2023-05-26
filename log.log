@@ -1,0 +1,28 @@
+
+[INFO] 08:03:53:814 Servidor/(10288:10288): asd
+[INFO] 08:03:53:814 Servidor/(10288:10288): asd
+[INFO] 08:03:53:814 Servidor/(10288:10288): ads
+[INFO] 08:03:53:814 Servidor/(10288:10288): 
+[ERROR] 08:03:53:814 Servidor/(10288:10288): el cliente se desconecto. Terminando servidor
+[INFO] 08:04:22:427 Servidor/(10387:10387): Servidor listo para recibir al cliente
+[INFO] 08:04:25:431 Servidor/(10387:10387): Se conecto un cliente!
+[INFO] 08:04:25:432 Servidor/(10387:10387): Me llego el mensaje  clave123
+[INFO] 08:04:35:118 Servidor/(10387:10387): Me llegaron los siguientes valores:
+
+[INFO] 08:04:35:119 Servidor/(10387:10387): asd
+[INFO] 08:04:35:119 Servidor/(10387:10387): qwe
+[INFO] 08:04:35:119 Servidor/(10387:10387): 123
+[INFO] 08:04:35:119 Servidor/(10387:10387): sexotilin
+[INFO] 08:04:35:119 Servidor/(10387:10387): 
+[ERROR] 08:04:35:119 Servidor/(10387:10387): el cliente se desconecto. Terminando servidor
+[INFO] 08:08:34:494 Servidor/(10781:10781): Servidor listo para recibir al cliente
+[INFO] 08:08:37:561 Servidor/(10781:10781): Se conecto un cliente!
+[INFO] 08:08:37:563 Servidor/(10781:10781): Me llego el mensaje  clave123
+[INFO] 08:08:46:319 Servidor/(10781:10781): Me llegaron los siguientes valores:
+
+[INFO] 08:08:46:323 Servidor/(10781:10781): ASD
+[INFO] 08:08:46:324 Servidor/(10781:10781): ASD
+[INFO] 08:08:46:324 Servidor/(10781:10781): ASD
+[INFO] 08:08:46:324 Servidor/(10781:10781): Q1431
+[INFO] 08:08:46:324 Servidor/(10781:10781): 
+[ERROR] 08:08:46:324 Servidor/(10781:10781): el cliente se desconecto. Terminando servidor
